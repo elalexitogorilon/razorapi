@@ -7,6 +7,7 @@ using MonoTouch.UIKit;
 
 namespace App1razore
 {
+    // check in stuff 09282017
     // The UIApplicationDelegate for the application. This class is responsible for launching the 
     // User Interface of the application, as well as listening (and optionally responding) to 
     // application events from iOS.
